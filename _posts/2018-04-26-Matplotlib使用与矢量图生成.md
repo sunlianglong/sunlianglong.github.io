@@ -9,7 +9,7 @@ catalog: true
 tags:
     - Matplotlib
     - python
-    -矢量图 
+    - 矢量图 
 ---
 
 　　Matplotlib 是一个非常强大的 Python 画图工具，它可能是 Python 2D-绘图领域使用最广泛的套件。它能让使用者很轻松地将数据图形化，并且提供多样化的输出格式，Matplotlib 提供了一整套和Matlab相似的API，对于习惯使用Python的人来说非常便利，[相关API见此](https://matplotlib.org/ "相关API见此")，个人感觉这个官方网址里面的内容非常的全面，学习matplotlib完全足够。
