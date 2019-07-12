@@ -1,6 +1,6 @@
 # Site settings
-title: BY Blog
-SEOTitle: Longlong's Blog | BY Blog
+title: Longlong's Blog
+SEOTitle: Blog | Longlong's Blog
 header-img: img/post-bg-desk.jpg
 email: 1294054316@qq.com
 description: "There is no royal road to learning."
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: 1e25d9463050d241ed21                            #生成的clientID
+  clientSecret: 54ae19c71966d1bfdf57648e4c10f847f0506833    #生成的clientSecret
+  repo: sunlianglong.github.io    #仓库名称
+  owner: sunlianglong    #github用户名
+  admin: sunlianglong
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -99,16 +99,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "My CSDN",
+        href: "https://blog.csdn.net/sunlianglong"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "My CSDN",
+        href: "https://blog.csdn.net/sunlianglong"
     }
 ]
